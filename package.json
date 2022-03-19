@@ -1,0 +1,26 @@
+{
+  "name": "sqitch-pg-unit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicoclock/sqitch-pg-unit.git"
+  },
+  "keywords": [],
+  "author": "Nicoclock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicoclock/sqitch-pg-unit/issues"
+  },
+  "homepage": "https://github.com/Nicoclock/sqitch-pg-unit#readme",
+
+  "dependencies": {
+    "debug": "^4.3.4",
+    "dotenv": "^16.0.0",
+    "pg": "^8.7.3"
+  }
+}

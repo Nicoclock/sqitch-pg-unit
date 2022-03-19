@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=spu
+
+init 2022-03-18T10:30:00Z Nicoclock <nicolas.charpin@oclock.io> # Table setup
+view 2022-03-18T14:48:36Z Nicoclock <nicolas.charpin@oclock.io> # Fake view
